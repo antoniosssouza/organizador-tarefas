@@ -1,5 +1,5 @@
 <div align="center">
-	<h1>Listagem de tarefas</h1>
+	<h1>Organizador de tarefas</h1>
 	<br>
 	<p align="center">
 		<a href="https://www.linkedin.com/in/felipejsborges/">
@@ -26,7 +26,6 @@ Aplicação desenvolvida para listar e visualizar tarefas, com o objetivo de col
 - Vite
 - React Router Dom
 - Sass
-- JSON Server
 
 <hr>
 

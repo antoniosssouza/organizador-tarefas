@@ -1,5 +1,6 @@
 <div align="center">
 	<h1>Organizador de tarefas</h1>
+	<h2><a href="https://dnc-tarefas.netlify.app/"> Acesse aqui o site para o projeto</a></h2>
 </div>
 
 <hr>

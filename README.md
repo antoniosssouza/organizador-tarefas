@@ -2,12 +2,8 @@
 	<h1>Organizador de tarefas</h1>
 	<br>
 	<p align="center">
-		<a href="https://www.linkedin.com/in/felipejsborges/">
-		  <img alt="made by" src="https://img.shields.io/badge/made%20by-Felipe%20Borges-orange">
-		</a>
-		<a href="https://github.com/felipejsborges/pokemon-challenge/commits/master">
-		  <img alt="last commit" src="https://img.shields.io/github/last-commit/felipejsborges/felipejsborges">
-		</a>
+		Aplicação desenvolvida para listar e visualizar tarefas, como solução para o Desafio 3, do curso de tecnologia da <b>Escola DNC</b>
+		de colocar em práticas a biblioteca de desenvolvimento de interfaces React JS
 	</p>
 </div>
 
@@ -15,7 +11,7 @@
 
 <h4>Descrição 📄</h4>
 
-Aplicação desenvolvida para listar e visualizar tarefas, com o objetivo de colocar em práticas a biblioteca de desenvolvimento de interfaces React JS.
+.
 
 <hr>
 

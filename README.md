@@ -1,13 +1,18 @@
-<div align="center">
-	<h1>Organizador de tarefas</h1>
-	<h2><a href="https://dnc-tarefas.netlify.app" target="_blank"> Acesse aqui o site para o projeto</a></h2>
-</div>
 
-<hr>
+<h1  align="center">Organizador de tarefas</h1>
+
 <h2>Descrição 📄</h2>
+<h3 align="center">
+	Aplicação desenvolvida para gerenciar tarefas, como solução para o Desafio 3, do curso de tecnologia da <b>Escola DNC</b>.
+</h3>
+<h4>Clique na imagem para ser direcionado ao site do projeto</h4>
 <p align="center">
-	Aplicação desenvolvida para listar e visualizar tarefas, como solução para o Desafio 3, do curso de tecnologia da <b>Escola DNC</b>.
+	<a href="https://dnc-tarefas.netlify.app/">
+		<img width="700" height="350" src="https://lh3.googleusercontent.com/u/0/drive-viewer/AFGJ81oT3FIhxU3EPLly8A63oFfzfHhEFdt3G1ldJMUH1Xefkt3MKtdVzdhc7RiYgCzfl6ZpSPuNUHrSYx2A0oWgT1l4Ydpc2Q=w1920-h967">
+	</a>
 </p>
+
+
 
 <hr>
 
@@ -17,6 +22,7 @@
 - React JS
 - Vite
 - Sass
+- React Router DOM
 
 <h2>Como rodar no seu computador🖥️</h2>
 
